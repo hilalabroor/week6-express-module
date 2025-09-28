@@ -19,19 +19,25 @@ Program ini adalah sebuah program sederhana berbasis Node.js dengan framework Ex
    berikut tampilan folder yang lengkap:
 <img width="371" height="284" alt="image" src="https://github.com/user-attachments/assets/7c73ce58-ab90-43e2-9a30-ded6916784a5" />
    
-   keterangan:
+   keterangan dan screenshot code:
    
    a. index.js
    
       Berisi konfigurasi utama program.
-   
+
+   <img width="808" height="784" alt="image" src="https://github.com/user-attachments/assets/2689de8e-2116-4804-8d59-917c4a450ba3" />
+
    b. utils/math.js
    
       Modul lokal berisi fungsi tambah(a,b) dan kali(a,b).
+
+   <img width="635" height="381" alt="image" src="https://github.com/user-attachments/assets/07640aa5-34c3-4fbd-88d1-399d2eba1d47" />
    
    c. routes/profile.js
    
       Berfungsi untuk mengatur endpoint terkait data profil, mulai dari menampilkan seluruh daftar profil hingga detail profil berdasarkan id.
+
+   <img width="1049" height="771" alt="image" src="https://github.com/user-attachments/assets/4101c4d8-b8c1-4a7c-b4c8-77a8dc45b87f" />
    
    d. node_modules, package.json, dan package-lock.json
    
@@ -41,7 +47,8 @@ Program ini adalah sebuah program sederhana berbasis Node.js dengan framework Ex
    
    Akan menampilkan Nama dan NIM dan diakses dengan alamat: http://localhost:3000/
    
-   <img width="731" height="385" alt="image" src="https://github.com/user-attachments/assets/0d1ee355-e698-407f-871b-863174bac7c6" />
+   <img width="579" height="321" alt="image" src="https://github.com/user-attachments/assets/9c02307b-d0b3-4e36-8997-66c4c454a166" />
+
    
 2. **GET/hitung**
    
