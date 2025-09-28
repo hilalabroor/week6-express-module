@@ -9,14 +9,14 @@
 ## Deskripsi Tugas
 Program ini adalah sebuah program sederhana berbasis Node.js dengan framework Express.js. Program ini menjalankan server lokal yang punya beberapa endpoint, mulai dari menampilkan identitas seperti nama dan nim, melakukan operasi matematika sederhana, dan menampilkan data profil menggunakan konsep route modular. Berikut tahap pengerjaanya:
 ### Langkah Pengerjaan
-1. **Membuat folder project**  
-   Folder project diberi nama: expressModule_F1D02310123
-3. **Inisialisasi Node.js Project**
-   Inisialisasinya dengan perintah 'npm init -y' di terminal
-4. **Intall Express.js**
-   Installnya dengan perintah 'npm intall express' di terminal
-5. **Melengkapi Isi Struktur Folder**
-   berikut tampilan folder yang lengkap:
+1. **Membuat folder project**
+   <br> Folder project diberi nama: expressModule_F1D02310123
+2. **Inisialisasi Node.js Project**
+   <br> Inisialisasinya dengan perintah 'npm init -y' di terminal
+3. **Intall Express.js**
+   <br> Installnya dengan perintah 'npm intall express' di terminal
+4. **Melengkapi Isi Struktur Folder**
+   <br> Berikut tampilan folder yang lengkap:
 <img width="371" height="284" alt="image" src="https://github.com/user-attachments/assets/7c73ce58-ab90-43e2-9a30-ded6916784a5" />
    
    keterangan dan screenshot code:
